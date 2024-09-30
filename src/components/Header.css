@@ -1,0 +1,23 @@
+.active {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+
+a:not(.active) {
+    background-color: rgb(218, 169, 33);
+    color: white;
+    text-decoration: none;
+}
+
+.activeLink {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+
+.nonactiveLink {
+    background-color: rgb(218, 169, 33);
+    color: white;
+    text-decoration: none;
+}
